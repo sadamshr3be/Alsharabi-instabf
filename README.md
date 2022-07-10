@@ -1,9 +1,21 @@
  # hack instagram accounts
 ## Getting Started
-1. ```https://github.com/sadamshr3be/Alsharabi-instabf```
-2. ```cd Alsharabi-instabf```
-3. ```python3 instabf.py```
+1. ``` https://github.com/sadamshr3be/Alsharabi-instabf ```
 
+``` cd Alsharabi-instabf ```
+
+``` chmod +x * ```
+
+
+``` sh andriod_setup.sh ```
+
+``` pip install six ```
+
+``` pip install requests ```
+
+``` pip install colorama ```
+
+``` python instabf.py ```
 ## Getting Started on andriod (termux)
 1. ```apt update && apt install -y git && git clonehttps://github.com/sadamshr3be/Alsharabi-instabf.git && cd Alsharabi-instabf && chmod +x * && sh andriod_setup.sh```
 2. ```python instabf.py```
